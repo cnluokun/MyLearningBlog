@@ -13,7 +13,7 @@ outputs:
     - RSS
     - Algolia
 params:
-  SEOTitle: 罗坤的博客 | Luokun Blog
+  SEOTitle: Open your eyes, look within. Are you satisfied with the life you're living?
   about_me: yes
   addtional_menus:
     - href: /top/books/
