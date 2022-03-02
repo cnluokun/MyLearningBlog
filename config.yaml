@@ -53,20 +53,22 @@ params:
     - title: 友链1 
       href : https://www.zhaohuabing.com/
   friends: yes
-  header_image: img/home-bg-jeep.jpg
+  header_image: img/header-bg-tech.jfif
   image_404: img/404-bg.jpg
-  keyword: 个人网站，写技术，记录学习
+  keyword: 个人网站，写技术帖，记录学习
   leancloud_app_id: ''
   leancloud_app_key: ''
   omit_categories: no
   page_view_conter: no
   reward: yes
-  sidebar_about_description: Software Developer, Open Source Enthusiast and Life Adventurer
+  sidebar_about_description: Work hard,Play Hard.Master Student of CASIA,  life-long learner and good-manner keeper.
   sidebar_avatar: img/luokun.jpg
   slogan: 苟有恒，何必三更起五更眠;最无益，莫过一日曝十日寒
   social:
     email: lksteven2013@163.com
     github: https://github.com/lowkeng
+    bilibili: https://space.bilibili.com/8877404
+    zhihu: https://www.zhihu.com/people/lowkeng
     #linkedin: https://www.linkedin.com/in/yourlinkedinid
     rss: yes
     #stackoverflow: https://stackoverflow.com/users/yourstackoverflowid
