@@ -13,7 +13,6 @@ subtitle: 'Gazebo入门基本介绍'
 description: ''
 image: 'img/pexels-photo-5011647.jpeg'
 ---
-# Gazebo入门基本介绍
 
 Gazebo仿真器使用具有高保真度（degree of fidelity）的物理引擎，可以在加载机器人模型后，添加传感器（比如IMU传感器和摄像机）和物体模型，搭建各种复杂的室内或室外的环境场景。Gazebo除了加载机器人等模型，还可以检测碰撞、测量位置等。
 <!--more-->
