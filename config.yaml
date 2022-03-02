@@ -2,7 +2,7 @@ baseurl: https://lowkeng.netlify.app/
 title: LOWKENG BLOG
 theme: hugo-theme-cleanwhite
 languageCode: en-us
-disqusShortname: ''
+disqusShortname: cnluokun
 googleAnalytics: ''
 preserveTaxonomyNames: yes
 paginate: 5
@@ -58,16 +58,16 @@ params:
   keyword: 个人网站，写技术帖，记录学习
   leancloud_app_id: ''
   leancloud_app_key: ''
-  omit_categories: no
-  page_view_conter: no
+  omit_categories: yes
+  page_view_conter: yes
   reward: yes
-  sidebar_about_description: Work hard,Play Hard.Master Student of CASIA,  life-long learner and good-manner keeper.
+  sidebar_about_description: Master Student of CASIA,Life-long Learner and Good-manner Keeper.
   sidebar_avatar: img/luokun.jpg
   slogan: 苟有恒，何必三更起五更眠;最无益，莫过一日曝十日寒
   social:
     email: lksteven2013@163.com
-    github: https://github.com/lowkeng
-    bilibili: https://space.bilibili.com/8877404
+    github: https://github.com/lowkeng 
+    #bilibili: https://space.bilibili.com/8877404
     zhihu: https://www.zhihu.com/people/lowkeng
     #linkedin: https://www.linkedin.com/in/yourlinkedinid
     rss: yes
