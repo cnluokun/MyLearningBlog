@@ -9,7 +9,7 @@ tags:
   - Gazebo
   - ROS
   - Robot Simulation
-subtitle: 'Gazebo的world文件、server/client、plugin、环境变量和架构'
+subtitle: 'Gazebo的world、server/client、plugin、环境变量和架构'
 description: ''
 image: ''
 ---
@@ -106,13 +106,9 @@ $ gzclient -g <plugin_filename>
 环境变量可以定位文件，建立客户端和服务器之间的联系。
 
 `GAZEBO_MODEL_PATH`: 逗号分隔的路径目录集合，用于Gazebo搜索模型
-
 `GAZEBO_RESOURCE_PATH`: 逗号分隔的路径目录集合，用于Gazebo搜索world环境或媒体文件 
-
 `GAZEBO_MASTER_URI`: URI of the Gazebo master，用于给定服务器入口IP和端口，以供客户端连接。
-
 `GAZEBO_PLUGIN_PATH`: 逗号分隔的路径目录集合，用于Gazebo搜索插件共享库 
-
 `GAZEBO_MODEL_DATABASE_URI`: 在线模型数据库的URI，用于Gazebo下载在线模型
 
 以上环境变量的默认值可以在`<install_path>/share/gazebo/setup.bash`这个脚本文件中看到
