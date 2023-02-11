@@ -1,6 +1,6 @@
 ---
 title: ROS中的Gazebo仿真教程01
-author: Luokun
+author: lowkeng
 date: '2022-03-02'
 slug: []
 categories:

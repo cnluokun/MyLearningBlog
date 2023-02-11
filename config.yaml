@@ -1,5 +1,5 @@
 baseurl: https://lowkeng.netlify.app/
-title: LowKeng BLOG
+title: LowKeng Blog
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: cnluokun
@@ -16,8 +16,8 @@ params:
   SEOTitle: Self-disciplined,Self-Motivated
   about_me: yes
   addtional_menus:
-    - href: /top/books/
-      title: BOOKS
+    - href: /top/categories/
+      title: CATEGORY
     - href: /top/archive/
       title: ARCHIVE
     - href: /top/about/
@@ -50,10 +50,10 @@ params:
   featured_condition_size: 1
   featured_tags: yes
   friend_link:
-    - title: 友链1 
+    - title: Zhao Huabing 
       href : https://www.zhaohuabing.com/
   friends: yes
-  header_image: img/bookpen.jpg
+  header_image: img/homecover.jpg
   image_404: img/404-bg.jpg
   keyword: 个人网站，写技术帖，记录学习
   leancloud_app_id: ''
