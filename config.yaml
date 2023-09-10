@@ -1,5 +1,5 @@
 baseurl: https://lowkeng.netlify.app/
-title: LowKeng Blog
+title: Self-Disciplined and Motivated
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: cnluokun
@@ -61,7 +61,7 @@ params:
   reward: yes
   sidebar_about_description: Master Student of CASIA,Life-long Learner and Good-manner Keeper.
   sidebar_avatar: img/robotavatar.png
-  slogan: 勤学-苟有恒，何必三更眠五更起;最无益，莫过一日曝十日寒
+  slogan: 苟有恒，何必三更眠五更起;最无益，莫过一日曝十日寒
   social:
     email: lksteven2013@163.com
     github: https://github.com/lowkeng 
