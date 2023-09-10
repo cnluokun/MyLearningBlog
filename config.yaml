@@ -42,7 +42,7 @@ params:
     - href: https://unsplash.com
       title: unsplash
   bookmarks: no
-  description: lowkeng，走过一些弯路的硕士生,  保持乐观，保持热爱 | 这里是 罗坤 的博客，如果命运是世界上最烂的编剧，你就要争取做自己人生最好的演员。
+  description: 罗坤，走过一些弯路的博士生,  保持乐观，保持热爱 | 这里是 罗坤 的博客，如果命运是世界上最烂的编剧，你就要争取做自己人生最好的演员。
   disqus_proxy: ''
   disqus_site: ''
   featured_condition_size: 1
@@ -61,7 +61,7 @@ params:
   reward: yes
   sidebar_about_description: Master Student of CASIA,Life-long Learner and Good-manner Keeper.
   sidebar_avatar: img/robotavatar.png
-  slogan: 苟有恒，何必三更眠五更起;最无益，莫过一日曝十日寒
+  slogan: 勤学-苟有恒，何必三更眠五更起;最无益，莫过一日曝十日寒
   social:
     email: lksteven2013@163.com
     github: https://github.com/lowkeng 
