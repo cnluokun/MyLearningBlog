@@ -12,7 +12,7 @@ tags:
   - Kinematics
 subtitle: ''
 description: ''
-image: 'img/star-sky.jpg'
+image: 'img/toppic/star-sky.jpg'
 ---
 
 本博客由MATLAB and Simulink Robotics Arena系列视频的主持人[Sebastian Castro](https://www.mathworks.com/matlabcentral/profile/authors/3069683-sebastian-castro)于2018年4月11日发布。

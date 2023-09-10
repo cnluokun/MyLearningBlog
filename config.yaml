@@ -16,8 +16,6 @@ params:
   SEOTitle: Self-disciplined,Self-Motivated
   about_me: yes
   addtional_menus:
-    - href: /top/categories/
-      title: CATEGORY
     - href: /top/archive/
       title: ARCHIVE
     - href: /top/about/
@@ -44,7 +42,7 @@ params:
     - href: https://unsplash.com
       title: unsplash
   bookmarks: no
-  description: 罗坤，走过一些弯路的硕士生,  保持乐观，保持热爱 | 这里是 罗坤 的博客，如果命运是世界上最烂的编剧，你就要争取做自己人生最好的演员。
+  description: lowkeng，走过一些弯路的硕士生,  保持乐观，保持热爱 | 这里是 罗坤 的博客，如果命运是世界上最烂的编剧，你就要争取做自己人生最好的演员。
   disqus_proxy: ''
   disqus_site: ''
   featured_condition_size: 1

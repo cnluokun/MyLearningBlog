@@ -10,7 +10,7 @@ tags:
   - 科研绘图
 subtitle: ''
 description: ''
-image: 'img/lake-1920.jpg'
+image: 'img/toppic/lake-1920.jpg'
 ---
 
 ## 调整子图块间距tight_subplot

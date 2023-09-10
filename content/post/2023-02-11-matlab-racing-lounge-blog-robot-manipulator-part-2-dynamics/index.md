@@ -12,7 +12,7 @@ tags:
   - Dynamics
 subtitle: ''
 description: ''
-image: 'img/star-sky.jpg'
+image: 'img/toppic/star-sky.jpg'
 ---
 
 ## 控制器设计概述
@@ -132,4 +132,4 @@ If you want to see more material on robot manipulation, or other topics in robot
 
 ## Reference
 
-MATLAB Blog Racing Lounge - Robot Manipulation,Part 2:Dynamics and Control](https://blogs.mathworks.com/racing-lounge/2018/04/25/robot-manipulation-part-2-dynamics-and-control/)
+MATLAB Blog Racing Lounge - [Robot Manipulation,Part 2:Dynamics and Control](https://blogs.mathworks.com/racing-lounge/2018/04/25/robot-manipulation-part-2-dynamics-and-control/)
